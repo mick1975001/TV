@@ -1,0 +1,35 @@
+name: rebuild-tvbox-source
+
+on:
+  schedule:
+    # 每天 UTC 03:30（北京时间 11:30）自动重测一次
+    - cron: "30 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 重建源
+        run: python scripts/build.py
+
+      - name: 有变化才提交
+        run: |
+          git config user.name "tvbox-bot"
+          git config user.email "tvbox-bot@users.noreply.github.com"
+          if git diff --quiet tvbox.json; then
+            echo "今日无变化"
+          else
+            git add tvbox.json
+            git commit -m "auto: rebuild $(date -u +%Y-%m-%d)"
+            git push
+          fi
