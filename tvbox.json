@@ -10,28 +10,10 @@
       "filter": 1
     },
     {
-      "key": "jszyapicom",
-      "name": "影视 • 极速[直连]",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
       "key": "apiguangsuapicom",
-      "name": "❤光速资源",
+      "name": "光速资源(切)",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "wwwhongniuzy2com",
-      "name": "🐂┃红牛┃采集",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -55,8 +37,44 @@
       "filter": 1
     },
     {
+      "key": "wwwhongniuzy2com",
+      "name": "🐂┃红牛┃采集",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "jszyapicom",
+      "name": "影视 • 极速[直连]",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "cjrycjapicom",
+      "name": "如意资源 [1080P]",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "bfzyapicom",
+      "name": "🌪️┃暴风┃采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
       "key": "360zycom",
-      "name": "360资源 [720P]",
+      "name": "360资源 [1080P]",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -69,5 +87,5 @@
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共7个站点 全部为实测可出片 构建于 2026-11-05"
+  "warningText": "自建源 共9个站点 全部为实测可出片 构建于 2026-11-06"
 }
