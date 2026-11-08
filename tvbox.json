@@ -55,28 +55,19 @@
       "filter": 1
     },
     {
+      "key": "cjrycjapicom",
+      "name": "如意资源 [1080P]",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
       "key": "360zycom",
       "name": "360资源 [1080P]",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "bfzyapicom",
-      "name": "🌪️┃暴风┃采集",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "apijulianglive",
-      "name": "巨量 • 影视",
-      "type": 1,
-      "api": "https://api.juliang.live/api/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -87,5 +78,5 @@
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共9个站点 全部为实测可出片 构建于 2026-11-07"
+  "warningText": "自建源 共8个站点 全部为实测可出片 构建于 2026-11-08"
 }
