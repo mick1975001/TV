@@ -10,10 +10,10 @@
       "filter": 1
     },
     {
-      "key": "apiapibdzycom",
-      "name": "❤百度 [网盘/720P]",
+      "key": "apiguangsuapicom",
+      "name": "光速资源(切)",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -23,15 +23,6 @@
       "name": "影视 • 极速[直连]",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "apiguangsuapicom",
-      "name": "❤光速资源",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -55,6 +46,15 @@
       "filter": 1
     },
     {
+      "key": "360zycom",
+      "name": "360资源 [1080P]",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
       "key": "wwwhongniuzy2com",
       "name": "🐂┃红牛┃采集",
       "type": 1,
@@ -64,19 +64,10 @@
       "filter": 1
     },
     {
-      "key": "cjlziapicom",
-      "name": "🥑┃量子┃采集 [1080P]",
+      "key": "bfzyapicom",
+      "name": "🌪️┃暴风┃采集",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "360zycom",
-      "name": "360资源 [720P]",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -87,5 +78,5 @@
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共9个站点 全部为实测可出片 构建于 2026-11-09"
+  "warningText": "自建源 共8个站点 全部为实测可出片 构建于 2026-11-10"
 }
