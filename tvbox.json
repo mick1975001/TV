@@ -10,19 +10,10 @@
       "filter": 1
     },
     {
-      "key": "apiapibdzycom",
-      "name": "❤百度 [网盘]",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
       "key": "apiguangsuapicom",
-      "name": "光速资源(切)",
+      "name": "❤光速资源",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -46,28 +37,10 @@
       "filter": 1
     },
     {
-      "key": "caijimoduapicc",
-      "name": "🌻魔都动漫🌻 [1080P]",
+      "key": "apijulianglive",
+      "name": "巨量 • 影视",
       "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "wwwmdzyapicom",
-      "name": "魔都资源 [1080P]",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "cjlziapicom",
-      "name": "🥑┃量子┃采集 [1080P]",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://api.juliang.live/api/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -80,33 +53,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
-    },
-    {
-      "key": "apijulianglive",
-      "name": "巨量 • 影视",
-      "type": 1,
-      "api": "https://api.juliang.live/api/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "cjrycjapicom",
-      "name": "如意资源 [1080P]",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "bfzyapicom",
-      "name": "🌪️┃暴风┃采集",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
     }
   ],
   "lives": [],
@@ -114,5 +60,5 @@
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共12个站点 全部为实测可出片 构建于 2026-11-11"
+  "warningText": "自建源 共6个站点 全部为实测可出片 构建于 2026-11-12"
 }
