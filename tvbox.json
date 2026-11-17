@@ -10,28 +10,10 @@
       "filter": 1
     },
     {
-      "key": "apimaoyanapitop",
-      "name": "猫眼资源",
-      "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
       "key": "cdndzzyapicom",
       "name": "大众影视 [720P]",
       "type": 1,
       "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "apiguangsuapicom",
-      "name": "雷蒙影视 | 🚀光速",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -46,19 +28,10 @@
       "filter": 1
     },
     {
-      "key": "subocaijicom",
-      "name": "速博资源",
+      "key": "apiguangsuapicom",
+      "name": "雷蒙影视 | 🚀光速",
       "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "ikunzyapicom",
-      "name": "❤ikun资源 [1080P]",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -73,10 +46,10 @@
       "filter": 1
     },
     {
-      "key": "cjrycjapicom",
-      "name": "如意资源 [1080P]",
+      "key": "ikunzyapicom",
+      "name": "❤ikun资源 [1080P]",
       "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -91,37 +64,10 @@
       "filter": 1
     },
     {
-      "key": "apixinlangapicom",
-      "name": "❤新浪资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "jszyapicom",
-      "name": "影视 • 极速[直连]",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
       "key": "wwwhongniuzy2com",
       "name": "🐂┃红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "jyzyapicom",
-      "name": "🍁金鹰采集🍁|cdn2020",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -136,10 +82,46 @@
       "filter": 1
     },
     {
+      "key": "jszyapicom",
+      "name": "影视 • 极速[直连]",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "jyzyapicom",
+      "name": "🍁金鹰采集🍁|cdn2020",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
       "key": "360zycom",
       "name": "360资源 [720P]",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "subocaijicom",
+      "name": "速博资源",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "apixinlangapicom",
+      "name": "❤新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -150,5 +132,5 @@
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共16个站点 全部为实测可出片 构建于 2026-11-16"
+  "warningText": "自建源 共14个站点 全部为实测可出片 构建于 2026-11-17"
 }
