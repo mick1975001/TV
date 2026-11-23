@@ -1,9 +1,82 @@
 {
-  "sites": [],
+  "sites": [
+    {
+      "key": "taopianapicom",
+      "name": "❤淘片资源",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "cdndzzyapicom",
+      "name": "大众影视 [720P]",
+      "type": 1,
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "xiguazytv",
+      "name": "西瓜资源 [1080P]",
+      "type": 1,
+      "api": "https://xiguazy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "wwwmdzyapicom",
+      "name": "魔都资源 [1080P]",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "ikunzyapicom",
+      "name": "❤ikun资源 [1080P]",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "wwwhongniuzy2com",
+      "name": "🐂┃红牛┃采集",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "bfzyapicom",
+      "name": "🌪️┃暴风┃采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "360zycom",
+      "name": "360zy [1080P]",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    }
+  ],
   "lives": [],
   "parses": [],
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共0个站点 全部为实测可出片 构建于 2026-11-22"
+  "warningText": "自建源 共8个站点 全部为实测可出片 构建于 2026-11-23"
 }
