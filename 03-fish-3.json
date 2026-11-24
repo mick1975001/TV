@@ -1,0 +1,312 @@
+{
+  "sites": [
+    {
+      "key": "Sir88",
+      "name": "🏟️┆超全┆体育",
+      "type": 3,
+      "api": "csp_Sir88",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "QiutongTY",
+      "name": "🏀┆球通┆体育",
+      "type": 3,
+      "api": "csp_QiutongTY",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "GuaziTY",
+      "name": "🥜┆瓜子┆体育",
+      "type": 3,
+      "api": "csp_GuaziTY",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "919TY",
+      "name": "🏅┆919┆体育",
+      "type": 3,
+      "api": "csp_C919TY",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "TingBook",
+      "name": "📻┆六月┆有声",
+      "type": 3,
+      "api": "csp_TingBook",
+      "searchable": 1,
+      "indexs": 0,
+      "ext": "https://app.365ting.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TingBookJinXia",
+      "name": "🎙️┆堇夏┆有声",
+      "type": 3,
+      "api": "csp_TingBookJinXia",
+      "searchable": 1,
+      "filterable": 1,
+      "indexs": 0,
+      "ext": "https://m.ting15.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TingYou",
+      "name": "🎧┆听友┆有声",
+      "type": 3,
+      "api": "csp_TingYou",
+      "searchable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "Market",
+      "name": "🛒┆网盘┆市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "categories": [
+          {
+            "name": "潇洒资源一",
+            "url": "https://pan.quark.cn/s/969cc97687d3"
+          },
+          {
+            "name": "潇洒资源二",
+            "url": "https://drive.uc.cn/s/ba531661b3eb4"
+          },
+          {
+            "name": "奇奇更新一",
+            "url": "https://pan.quark.cn/s/ab00f85da8ea"
+          },
+          {
+            "name": "奇奇更新二",
+            "url": "https://drive.uc.cn/s/ef22fcbfdd934"
+          }
+        ]
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "💌┆推送┆接收",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "timeout": 60
+    },
+    {
+      "key": "Fishdrive",
+      "name": "🐠┆摸鱼┆媒体库",
+      "type": 3,
+      "api": "csp_FishDrive",
+      "indexs": 0,
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260715/bf45/fishdrive.json"
+    },
+    {
+      "key": "Wallpaper",
+      "name": "🖼️┆摸鱼┆壁纸库",
+      "type": 3,
+      "api": "csp_Wallpaper",
+      "searchable": 0,
+      "indexs": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.56
+      }
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "spider": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar;md5;53b51f8c239b727ce4cd18dc2c3b7a99",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "warningText": "自建分拆源 · fish · 第3/3包 · 共11站 · 构建于 2026-11-24"
+}
