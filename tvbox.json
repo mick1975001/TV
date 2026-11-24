@@ -10,28 +10,19 @@
       "filter": 1
     },
     {
-      "key": "cdndzzyapicom",
-      "name": "大众影视 [720P]",
-      "type": 1,
-      "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
-      "key": "xiguazytv",
-      "name": "西瓜资源 [1080P]",
-      "type": 1,
-      "api": "https://xiguazy.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
-    },
-    {
       "key": "wwwmdzyapicom",
       "name": "魔都资源 [1080P]",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "cdndzzyapicom",
+      "name": "大众影视 [720P]",
+      "type": 1,
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -46,10 +37,37 @@
       "filter": 1
     },
     {
+      "key": "cjffzyapicom",
+      "name": "🥗┃非凡┃采集 [1080P]",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
       "key": "wwwhongniuzy2com",
       "name": "🐂┃红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "cjrycjapicom",
+      "name": "如意资源 [1080P]",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filter": 1
+    },
+    {
+      "key": "xiguazytv",
+      "name": "西瓜资源 [1080P]",
+      "type": 1,
+      "api": "https://xiguazy.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -78,5 +96,5 @@
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共8个站点 全部为实测可出片 构建于 2026-11-23"
+  "warningText": "自建源 共10个站点 全部为实测可出片 构建于 2026-11-24"
 }
