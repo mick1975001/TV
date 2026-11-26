@@ -46,10 +46,10 @@
       "filter": 1
     },
     {
-      "key": "cjrycjapicom",
-      "name": "如意资源 [1080P]",
+      "key": "360zycom",
+      "name": "360zy [1080P]",
       "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
@@ -62,15 +62,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filter": 1
-    },
-    {
-      "key": "360zycom",
-      "name": "360zy [1080P]",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filter": 1
     }
   ],
   "lives": [],
@@ -78,5 +69,5 @@
   "flags": [],
   "spider": "",
   "wallpaper": "",
-  "warningText": "自建源 共8个站点 全部为实测可出片 构建于 2026-11-25"
+  "warningText": "自建源 共7个站点 全部为实测可出片 构建于 2026-11-26"
 }
